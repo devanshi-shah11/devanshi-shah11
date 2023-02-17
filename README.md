@@ -11,7 +11,10 @@
 ##### I am currently looking for full time opportunities related to Analytics
 
 🛠 Programming Languages & Tools- 
-Python | MySQL | MSExcel | Tableau | GitHub | PowerBI | VSCode
+
+● Languages and Databases: Python (NumPy, Pandas, seaborn), R (ggplot2, Matplotlib), MySQL, SQL Server
+● Analytics Tools: Tableau, Microsoft Power BI, Jupyter Notebook, GitHub, MS Excel (VLOOKUP, Pivot tables)
+● Analytical Skills: Data Cleaning, Data Visualization, Hypothesis Testing, Exploratory Data Analysis, Logistic and Linear Regression, Time Series Forecasting, Linear optimization
 
 
 
