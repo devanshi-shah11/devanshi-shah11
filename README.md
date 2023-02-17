@@ -3,7 +3,7 @@
 
 🔭 Currently learning courseworks with a focus area in Data Analytics/Science
 
-# I am currently looking for full time opportunities related to Analytics
+##### I am currently looking for full time opportunities related to Analytics
 
 💻 Worked as a Data Analyst
 
