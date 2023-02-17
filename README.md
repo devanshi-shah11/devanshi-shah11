@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I am Devanshi
+
 🎓 Pursing Masters in Information Management from University of Maryland, College Park (Class of 2023)
 
 🔭 Currently learning courseworks with a focus area in Data Analytics/Science
