@@ -14,7 +14,7 @@
 
 ● Analytics Tools: Tableau, Microsoft Power BI, Jupyter Notebook, GitHub, MS Excel (VLOOKUP, Pivot tables)
 
-● Analytical Skills: Data Cleaning, Data Visualization, Hypothesis Testing, Exploratory Data Analysis, Logistic and Linear Regression, Time Series Forecasting, Linear optimization
+● Analytical Skills: ETL, Descriptive Analysis, Sales Analysis, Time Series Analysis, Profit and Loss Analysis, Data Cleaning, Regression Analysis, Data Wrangling, Data Manipulation, Databases Management, Statistical Modeling, Project Management, Forecasting Techniques, Object oriented programming, Presentation Skills, Investor Reporting
 
 
 
