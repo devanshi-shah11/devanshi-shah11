@@ -6,7 +6,7 @@
 
 ⚡ Open to new experiences and learning opportunities
 
-##### I am currently looking for full time opportunities related to Analytics/Science
+##### I am currently looking for full time opportunities related to Analytics/ Data Science
 
 🛠 Programming Languages & Tools- 
 
